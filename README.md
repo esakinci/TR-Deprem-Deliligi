@@ -29,12 +29,13 @@ Google Earth bilgisayarınızda kurulu değilse [önce kurunuz](https://support.
 + Eğer odaklandığınız bölge'nin tam olarak oturmadığını fark ediyorsanız, imajın pozisyonu, scale ve rotasyonunu kendiniz ayarlayabilirsiniz.
 
 ## Kaynakları Anlamlandırabilmek İçin Bazı Notlar
-+ Ev sulak arazide olmayacak. Eski bir dereyatağına yakın olmayacak. Zeminin kendisi jeolojik olarak sağlam kabul edilen türden olacak. Faydan ne kadar uzak o kadar iyi.  
++ Ev sulak arazide olmayacak. Eski bir dereyatağına yakın olmayacak. Zeminin kendisi jeolojik olarak sağlam kabul edilen türden olacak. Faydan ne kadar uzak o kadar iyi. 
 + İBB Zemin'in paylaştığı, [PDF dosyası](/sources/iSTANBUL-iL-ALANI-JEOLOJiSi-YoNETiCi-oZETi_2013.pdf) içerisinde İstanbul'a ait zemin tiplerine dair tanımlamalar ve açıklamalar vardır. 81. sayfada V.1.2 başlığı ile beraber İstanbul üzerinde bulunan zeminler hakkında önemli bir yorumlama bulunuyor. Koca PDF yi gözden geçirmeden evvel, direkt olarak bir bilinç kazanmak adına bakılabilir. 
 + Bu [resim](/sources/İstanbul-toprak-zemin-harita.JPG), bu [PDF içinden](/sources/İstanbul-Zemin-ve-Ev-fiyatları-ilişkisi.pdf) alınmıştır. Bkz "4.2. İstanbul ve İlçelerindeki Zemin Formasyonları".
++ Jeoloji haritaları incelenirken her bir harita parçası içindeki simgeler ve renkler farklılık gösterebilir. Bunu dikkate alarak kontrol edin.
 + Prof. Cenk Yaltırak'ın simulasyonunu ve faylar hakkındaki çalışmasının detaylı anlatımı [bu videoda](https://youtu.be/_2cvfFWN56E) bulunabilir. Video biraz uzun! Ancak kendisi Marmara hakkında uzman bir bilimci ve yaptığı çalışmanın ciddiyetini, detay seviyesini ve konuya dair tahminlerindeki tutarlılığı hakkında net açıklamaları var. Hocamız, simulasyonlarında yıkım 0.2g den başlıyor demektedir. Yaptığı çalışmada yüksek çözünürlüklü bina ivme datası toplanırsa, hangi binaların gerçekten yenilenmesi gerektiğinin tespitini yapabileceğini anlatıyor.
-+ İstanbulda kırılmaya müsait 3 farklı fay olduğunun farkında olunması gerekir. Prof. Cenk Yaltırak'ın simulasyon görsellerinin farklı MW değerli görselleri var. Bunlar farklı fayların, farklı şiddetler üretme potansiyeli ile üreteceği ivmenin simulasyonları.
-+ Söylenene göre İstanbul depremine hazırlık; Fatih-Bağcılar'ın altına denk düşen fay'ın 7.4mw hareketine hazırlandığı iddiası var. 
++ İstanbulda kırılmaya müsait 3 farklı fay olduğunun farkında olunması gerekir. Prof. Cenk Yaltırak'ın simulasyon görsellerinin farklı MW değerli görselleri var. Bunlar farklı fayların, farklı şiddetler üretme potansiyeli ile üreteceği ivmenin simulasyonları. Öngörülen şiddet değerleri belirli bir tarihte (2023) üretildiği için, fayların kırılmadığı her geçen zamanda MW değeri değişebilir diye tahmin ediyorum.
++ Söylenene göre İstanbul depremine hazırlık; Cenk Yaltırak simulasyonlarındaki Fatih-Bağcılar'ın altına denk düşen fay'ın 7.4mw hareketine hazırlandığı iddiası var. 
 
 ## Kaynaklar
 + https://mapelse.github.io/istanbulJeoloji/
