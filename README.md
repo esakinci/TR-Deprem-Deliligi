@@ -22,7 +22,11 @@ Bu bağlamda Google Earth'e yerleştirilen bu imajların elle yerleştirilmiş o
 + Jeoloji haritası: Zemin'in karakteri, çeşitliliği, şekli hakkında bilgilenebiliriz.
 
 ### Google Earth Yer İmleri Çıktısı
-Google Earth kurulu değilse [önce kurunuz](https://support.google.com/earth/answer/21955?hl=tr). Çıktı repo içerisinde "output" klasörü içinde TR-DD-BB.kmz uzantısı olarak konumlanmıştır.
+Google Earth bilgisayarınızda kurulu değilse [önce kurunuz](https://support.google.com/earth/answer/21955?hl=tr). Çıktı repo içerisinde "output" klasörü içinde TR-DD-BB.kmz uzantısı olarak konumlanmıştır.
+
+### Overlay Yer İmleri Hakkında Önemli Notlar
++ İmajların bulundukları yere elle yerleştirildiklerinin farkında olun!
++ Eğer odaklandığınız bölge'nin tam olarak oturmadığını fark ediyorsanız, imajın pozisyonu, scale ve rotasyonunu kendiniz ayarlayabilirsiniz.
 
 ## Kaynakları Anlamlandırabilmek İçin Bazı Notlar
 + Ev sulak arazide olmayacak. Eski bir dereyatağına yakın olmayacak. Zeminin kendisi jeolojik olarak sağlam kabul edilen türden olacak. Faydan ne kadar uzak o kadar iyi.  
