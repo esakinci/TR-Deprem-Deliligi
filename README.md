@@ -25,7 +25,7 @@ Bu bağlamda Google Earth'e yerleştirilen bu imajların elle yerleştirilmiş o
 Google Earth bilgisayarınızda kurulu değilse [önce kurunuz](https://support.google.com/earth/answer/21955?hl=tr). Çıktı repo içerisinde "output" klasörü içinde TR-DD-BB.kmz uzantısı olarak konumlanmıştır.
 
 ### Overlay Yer İmleri Hakkında Önemli Notlar
-+ İmajların bulundukları yere elle yerleştirildiklerinin farkında olun!
++ İmajların bulundukları yere, **el yordamı ile göz kararı yerleştirildiklerinin farkında olun!** :frowning_man:
 + Eğer odaklandığınız bölge'nin tam olarak oturmadığını fark ediyorsanız, imajın pozisyonu, scale ve rotasyonunu kendiniz ayarlayabilirsiniz.
 
 ## Kaynakları Anlamlandırabilmek İçin Bazı Notlar
