@@ -9,7 +9,7 @@ Onun yerine zemin bilgisi ve hangi şartlarda binalar daha tehlikededir, depremd
 >**Bu sebeple buradan edindiğiniz bilgiler ile seçtiğiniz evin lokasyonu hakkında herhangi bir sağlamlık iddiası bulunmamaktadır! [Bkz lisans](/LICENSE). Bu sebeple buradan elde edilmiş bilgilerle yapılan seçimleriniz yalnızca sizi bağlar.**
 
 Google Earth yer imleri kullanılarak: Türkiye üzerinde bulunan jeoloji yapısına ait resimler, eski haritalar, çeşitli simulasyonlara ait risk haritalarına ait imajların yerleştirilerek, gözlemler ve karşılaştırmalar yapabilme olanağını elde edebiliyoruz. 
-Bu bağlamda Google Earth'e yerleştirilen bu imajların elle yerleştirilmiş olduğu ve 1 pixellik bir sapmanın 100'lerce metre kayabileceği göz önünde bulundurulmalıdır! Bu konuda benim yaptığım işi GE'ye entegre edene kadar [bu çalışmadan](https://mapelse.github.io/istanbulJeoloji/) faydalanılabilir.
+Bu bağlamda Google Earth'e yerleştirilen bu imajların elle yerleştirilmiş olduğu ve 1 pixellik bir sapmanın 100'lerce metre kayabileceği göz önünde bulundurulmalıdır! Bu konuda benim yaptığım işi GE'ye entegre edene kadar [bu çalışmadan](https://mapelse.github.io/istanbulJeoloji/) faydalanılabilir. Ayrıca jeoloji haritalarının kaynağı olan [MTA'nın bu web haritası](http://yerbilimleri.mta.gov.tr/anasayfa.aspx) benim kendi elimle yerleştirdiğim imajlardan daha isabetli ve konforlu bir deneyim sunacaktır.  
 
 #### Google Earth versiyonunda neler var?
 + [Prof. Cenk Yaltırak](https://www.researchgate.net/profile/Cenk-Yaltirak)'a ait bir çalışma olan yeni nesil sismik simulasyon'un imajları.
