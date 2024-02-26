@@ -11,13 +11,18 @@ Onun yerine zemin bilgisi ve hangi şartlarda binalar daha tehlikededir, depremd
 Google Earth yer imleri kullanılarak: Türkiye üzerinde bulunan jeoloji yapısına ait resimler, eski haritalar, çeşitli simulasyonlara ait risk haritalarına ait imajların yerleştirilerek, gözlemler ve karşılaştırmalar yapabilme olanağını elde edebiliyoruz. 
 Bu bağlamda Google Earth'e yerleştirilen bu imajların elle yerleştirilmiş olduğu ve 1 pixellik bir sapmanın 100'lerce metre kayabileceği göz önünde bulundurulmalıdır! Bu konuda benim yaptığım işi GE'ye entegre edene kadar [bu çalışmadan](https://mapelse.github.io/istanbulJeoloji/) faydalanılabilir. Ayrıca jeoloji haritalarının kaynağı olan [MTA'nın bu web haritası](http://yerbilimleri.mta.gov.tr/anasayfa.aspx) benim kendi elimle yerleştirdiğim imajlardan daha isabetli ve konforlu bir deneyim sunacaktır.  
 
+Projeye İBB'nin risk tespit haritaları da eklenmiştir. GE çıktısı içerisinde isimlendirmeleri ile ne olduğu anlaşılmaktadır. Ayrıca başka bir Github kullanıcısının yine İBB'nin hasar riski tabloları üzerinden faydalanarak yayınladığı güzel bir harita projesine rastladım. [Buradan paylaşıyorum.](https://github.com/alicangnll/ibb-istanbul-depremi-tahmini-2021)
+
+Kadıköy belediyesinin bir [haritasına](https://webgis.kadikoy.bel.tr/keos/?p=ABIS6_ITRF96) rastladım. Bu bölgede eve çıkmak istenirse faydalanılabilir.
+
 #### Google Earth versiyonunda neler var?
 + [Prof. Cenk Yaltırak](https://www.researchgate.net/profile/Cenk-Yaltirak)'a ait bir çalışma olan yeni nesil sismik simulasyon'un imajları.
 + Eski İstanbul haritaları. 
++ İBB zemin etüd ve risk analiz haritaları.
 + Jeoloji haritası.
 
 #### Bu bilgiler ne işimize yarayacak?
-+ Simulasyonlardan: evim ne kadar fazla sallanır, ne kadar tehlikedeyim? Bir fikir elde ederiz.
++ Simulasyonlardan: evim ne kadar fazla sallanır, ne kadar tehlikedeyim? Bir fikir elde ederiz. Mütheait'e ve ustalara ne kadar güvenmemiz gerektiğine dair kafamızda bir ölçek oluşur.
 + Eski haritalardan: yerleşim yerleri eskiden nerelere konudurulmaya uygun görülmüş, eski akarsular nerelerdedir? (Ayrıca eğlenceli :+1: *Eskiden buralar hep dutluktu..*)
 + Jeoloji haritası: Zemin'in karakteri, çeşitliliği, şekli hakkında bilgilenebiliriz.
 
@@ -26,7 +31,7 @@ Google Earth bilgisayarınızda kurulu değilse [önce kurunuz](https://support.
 
 ### Overlay Yer İmleri Hakkında Önemli Notlar
 + İmajların bulundukları yere, **el yordamı ile göz kararı yerleştirildiklerinin farkında olun!** :frowning_man:
-+ Eğer odaklandığınız bölge'nin tam olarak oturmadığını fark ediyorsanız, imajın pozisyonu, scale ve rotasyonunu kendiniz ayarlayabilirsiniz.
++ Eğer overlay imajı, odaklandığınız bölgeye tam olarak oturmadığını fark ediyorsanız, imajın pozisyonu, scale ve rotasyonunu kendiniz ayarlayabilirsiniz. Sağ click yapıp özellikler sekmesini açınca harita üzerinde düzenleme moduna giriyor.
 
 ## Kaynakları Anlamlandırabilmek İçin Bazı Notlar
 + Ev sulak arazide olmayacak. Eski bir dereyatağına yakın olmayacak. Zeminin kendisi jeolojik olarak sağlam kabul edilen türden olacak. Faydan ne kadar uzak o kadar iyi. 
@@ -42,3 +47,4 @@ Google Earth bilgisayarınızda kurulu değilse [önce kurunuz](https://support.
 + https://www.mta.gov.tr/
 + https://depremzemin.ibb.istanbul/
 + https://youtu.be/_2cvfFWN56E
++ https://github.com/alicangnll/ibb-istanbul-depremi-tahmini-2021
